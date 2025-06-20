@@ -1,14 +1,7 @@
-<h1 align='center'> ✨ PAPER AGENT ✨ </h1>
-<h3 align='center'> An advanced RAG application which reads and analyzes research papers for you.</h3>
+<h1 align='center'> A THESIS ANALYZER  </h1>
+<h3 align='center'> An advanced RAG application which reads and analyzes research papers .</h3>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/7364125e-4c97-49b4-916d-f6f28d03c7fe"/>
-</p>
 
-## Live Link
-[Paper Agent](https://arion-research.streamlit.app/) <br><br>
-<strong> NOTE: </strong> <br>
-This is a free of cost application, so expect redundancy and a lot of latency during the startup. Once the chat application starts up, it's quite fast. So, please bear with it during the initialization. Thank you. Feel free to put in your feedback in the [FORM](https://forms.gle/xa8UTbmciU2kJTn8A).
 
 ## Frameworks & Tools Used
 Langchain <br>
