@@ -193,5 +193,3 @@ def user_chat_application(file_path, reranker, embedding_model, vector_store, re
         st.success("Chat session ended.")
 ```
 
-## Live Demo
-[Video](https://youtu.be/8qBiHGUsJgg)
